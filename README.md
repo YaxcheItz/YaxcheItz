@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm YaxcheItz, a Software Developer from Mexico</h2>
+<h2 align="left">Hi 👋! My name is Yaxche, a Software Developer from Mexico</h2>
 
 ###
 

@@ -1,88 +1,78 @@
-<h2 align="left">Hi 👋! I'm Yaxche Itzamna Ramirez Garcia, a Software Engineer from Mexico</h2>                                                                                                  
-                                                                                                                                                                                           
-<p align="left">
-  I'm a passionate <b>Backend & Full-Stack Developer</b> specializing in scalable solutions, clean architecture, and SOLID principles. I focus on building robust RESTful APIs, secure authentication systems (JWT/RBAC), and real-time applications using <b>Java (Spring Boot)</b> and <b>Python (Django)</b>. 
-</p>
+<div align="center">
+  <h1>Hi 👋! I'm Yaxche Itzamna Ramirez Garcia</h1>
+  <h3>Backend & Full-Stack Software Engineer from Mexico 🇲🇽</h3>
+  <p>
+    I focus on building scalable RESTful APIs, clean architectures, secure authentication systems (JWT/RBAC), and interactive 3D environments. 
+  </p>
+</div>
 
-###                                                                                                                                                                                      
-                                                                                                                                                                                           
-<div align="left">                                                                                                                                                                       
-  <img src="https://github-readme-stats.vercel.app/api?username=YaxcheItz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />&nbsp;&nbsp;&nbsp;                                                                        
-  <img src="https://streak-stats.demolab.com?user=YaxcheItz&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />         
-  <br><br>                                                                                                                                                                               
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YaxcheItz&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph" />           
-</div>                                                                                                                                                                                   
-                                                                                                                                                                                           
-###                                                                                                                                                                                      
-                                                                                                                                                                                           
-## 🛠️ Technologies & Tools                                                                                                                                                               
-                                                                                                                                                                                           
-<div align="left">                                                                                                                                                                       
-  <!-- Backend & Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo" title="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo" title="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" title="Node.js" />
-  <img width="12" />
-  
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angular logo" title="Angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind logo" title="Tailwind CSS" />
-  <img width="12" />
+---
 
-  <!-- Databases & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" title="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" title="Git/GitHub" />
-</div>                                                                                                                                                                                   
-                                                                                                                                                                                           
-###                                                                                                                                                                                      
-                                                                                                                                                                                           
-## 🎯 Featured Projects                                                                                                                                                                  
-                                                                                                                                                                                           
-### 🚀 Advanced Backend & Fullstack
-- **[Smart Support Dashboard Application](https://github.com/YaxcheItz/SmartSupportDashboardApplication)** - A scalable RESTful API built with **Java 21, Spring Boot, and Angular**. Features robust JWT/RBAC security, PostgreSQL optimization, real-time WebSockets, and Gemini AI integration for automated ticket classification.
-- **[RAPPI-SAFE](https://github.com/YaxcheItz/RAPPI-SAFE)** - A high-availability emergency management backend built with **Python, Django, and PostgreSQL**. Achieves response times under 5 seconds, featuring bidirectional WebSocket communication (Django Channels) and dynamic geolocation tracking.
+<div align="center">
+  <a href="https://www.linkedin.com/in/yaxche-itzamna-ramirez-garcia-b7556a177/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/YaxcheItz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://yaxcherg.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-### 💼 Freelance & Custom Solutions (Highlights)
-- **Document Management System:** A full MERN stack platform designed for an educational institution. Includes unique document tracking, RBAC security, and JWT authentication.
-- **Point of Sale (POS) & Inventory System:** Real-time stock management and secure financial transactions built with Java Spring Boot.
-- **Gym Management Platform:** Comprehensive user and membership administration system utilizing Java (Spring Boot) and PostgreSQL.
+---
 
-### 📚 Earlier/Academic Work                                                                                                                                                                  
-- **[universo_dev](https://github.com/YaxcheItz/universo_dev)** - Final Web Programming Project (Laravel/PHP).                                                                       
-- **[paginaE7U2](https://github.com/YaxcheItz/paginaE7U2)** - Collaborative frontend web page practice.                                                                                     
-                                                                                                                                                                                           
-###                                                                                                                                                                                      
-                                                                                                                                                                                           
-## 📫 Connect with me                                                                                                                                                                    
-                                                                                                                                                                                           
-<div align="left">                                                                                                                                                                       
-  <a href="https://www.linkedin.com/in/yaxche-itzamna-ramirez-garcia-b7556a177/" target="_blank">                                                                                        
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo" />                                                                                                                                                                                      
-  </a>                                                                                                                                                                                   
-  <a href="https://github.com/YaxcheItz" target="_blank">                                                                                                                                
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=181717&style=for-the-badge" height="35" alt="github logo"  />   
-  </a>                                                                                                                                                                                   
-  <a href="https://yaxcherg.vercel.app/" target="_blank">                                                                                                                                
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="portfolio logo"  />   
-  </a>                                                                                                                                                                                   
-</div>                                                                                                                                                                                   
-                                                                                                                                                                                           
-###
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YaxcheItz&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=YaxcheItz&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YaxcheItz&radius=16&theme=github-dark&area=true&hide_border=true" height="300" alt="activity-graph" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Scalable Backend & Full-Stack Systems
+* **[Smart Support Dashboard Application](https://github.com/YaxcheItz/SmartSupportDashboardApplication)** <br> 
+  *Tech: Java 21, Spring Boot, Angular, PostgreSQL, Gemini AI* <br>
+  A scalable RESTful API featuring JWT/RBAC security, real-time WebSockets, and AI integration for automated ticket classification.
+* **[RAPPI-SAFE](https://github.com/YaxcheItz/RAPPI-SAFE)** <br> 
+  *Tech: Python, Django, WebSockets* <br>
+  High-availability emergency management backend with response times under 5 seconds and dynamic geolocation tracking.
+
+### 📐 Computer Graphics & Data Structures
+* **3D Graphics & Interactive Modeling** <br>
+  *Tech: Java (OpenGL/LWJGL), Unity, Blender* <br>
+  Development of interactive 3D environments, including rendering of architectural models and robots, and geometric programming of complex fractals.
+* **Genealogical Family Tree Database** <br>
+  *Tech: Data Structures, Database Management* <br>
+  A complex structural database mapping multiple generations of maternal and paternal lineages.
+
+### 💼 Freelance / Custom Solutions
+* **MERN Document Management System:** Secure internal tool with custom folios and RBAC designed for educational institutions.
+* **Spring Boot Point of Sale (POS):** Inventory and financial transaction manager ensuring data consistency.
+
+---
+<div align="center">
+  <i>Let's build something amazing together!</i>
+</div>

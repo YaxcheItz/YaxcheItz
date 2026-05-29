@@ -69,7 +69,9 @@
   A complex structural database mapping multiple generations of maternal and paternal lineages.
 
 ### 💼 Freelance / Custom Solutions
-* **MERN Document Management System:** Secure internal tool with custom folios and RBAC designed for educational institutions.
+* **[Sistema de Oficialía - Document Management](https://github.com/YaxcheItz/SistemaOficialia)** <br>
+  *Tech: React, Node.js, Express, MongoDB, Docker* <br>
+  Secure internal MERN stack tool with custom folios, RBAC, and containerized deployment via Render. [Live Demo](https://sistemaoficialia.onrender.com)
 * **Spring Boot Point of Sale (POS):** Inventory and financial transaction manager ensuring data consistency.
 
 ---
